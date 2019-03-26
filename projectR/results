@@ -1,0 +1,28 @@
+
+Euclidean Models
+
+Exponential Variogram
+      MSPE percent.75 percent.85 percent.95 
+ 0.1602010  0.7272727  0.7727273  0.7727273 
+
+Gaussian Variogram
+      MSPE percent.75 percent.85 percent.95 
+ 0.1261080  0.6363636  0.7272727  0.7272727 
+
+Wave Variogram
+      MSPE percent.75 percent.85 percent.95 
+ 0.1191614  0.2727273  0.3181818  0.5909091
+
+SWD Model with Exponential Variogram
+      MSPE percent.75 percent.85 percent.95 
+ 0.1165933  0.8181818  0.9545455  0.9545455 
+
+My Model
+      MSPE percent.75 percent.85 percent.95 
+0.09983846 0.72727273 0.77272727 0.86363636
+
+Soap Model
+      MSPE percent.75 percent.85 percent.95 
+0.09141827 0.72727273 0.81818182 0.95454545 
+
+

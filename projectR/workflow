@@ -1,0 +1,30 @@
+Prelims:
+importData
+basePrettyPicture
+prelimAnalysis
+basePrettyPicture
+ratio
+coordConvert
+inWater
+krige
+
+Euclidean Model:
+smoothedPlots
+euclidPrelims
+euclidCV
+
+SWD Model:
+swdPrep
+swdCV
+
+My Model:
+gridBoxes
+neighbor
+transitionalMatrix
+weightList
+g
+findLinIndRowIndexes
+contrastAndA
+psi
+objChain
+cvStep
